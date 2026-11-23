@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "version": "1.3.0",
-  "publiee_le": "2026-11-21",
-  "resume": "Propagation plus juste : le calcul des menaces change de modèle.",
-  "ou": "Release GitHub v1.3.0 ou dossier de distribution habituel"
+  "version": "1.4.0",
+  "publiee_le": "2026-11-23",
+  "resume": "Assistant « Mettre à jour les données » (exports et fichiers étrangers, avec aperçu et retour en arrière) ; avis de nouvelle version.",
+  "ou": "Release GitHub v1.4.0 ou dossier de distribution habituel"
 }

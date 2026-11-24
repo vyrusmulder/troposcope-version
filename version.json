@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "version": "1.4.0",
-  "publiee_le": "2026-11-23",
-  "resume": "Assistant « Mettre à jour les données » (exports et fichiers étrangers, avec aperçu et retour en arrière) ; avis de nouvelle version.",
-  "ou": "Release GitHub v1.4.0 ou dossier de distribution habituel"
+  "version": "1.5.0",
+  "publiee_le": "2026-11-24",
+  "resume": "Émetteurs étrangers officiels : Royaume-Uni (Ofcom) et Italie (AGCOM) livrés avec l'exe, mise à jour par l'assistant ; Espagne (ministère) mise à jour automatiquement. Fiche du brouilleur avec la source, « position approchée » et « valeurs par défaut ».",
+  "ou": "Release GitHub v1.5.0 ou dossier de distribution habituel"
 }

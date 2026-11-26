@@ -1,7 +1,7 @@
 {
   "format": 1,
-  "version": "1.6.0",
+  "version": "1.7.0",
   "publiee_le": "2026-11-26",
-  "resume": "Manuel utilisateur lisible hors ligne, aide contextuelle (« ? » et F1) à chaque écran, recherche dans le manuel et fenêtre « À propos de TropoScope ».",
-  "ou": "Release GitHub v1.6.0"
+  "resume": "Ouverture plus rapide, recherche de services et préférences mémorisées.",
+  "ou": "Release GitHub v1.7.0"
 }
